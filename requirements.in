@@ -1,0 +1,11 @@
+requests
+Flask[async]
+python-dotenv
+
+httpx
+asyncio_throttle
+
+
+black
+isort
+flake8
